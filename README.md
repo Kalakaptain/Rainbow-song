@@ -1,2 +1,2 @@
 # Rainbow-song
-song about rainbows
+song about rainbows in c major
